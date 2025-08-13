@@ -6,5 +6,6 @@
 > - The "everything" wildcard, UNCHECKED.
 > 
 > In excluded:
-> - The known noise domains, such as \.google.*\..*.
+> - The known noise domains, such as `\.google.*\..*.`
+>
 > Then you check and uncheck the "everything in scope" checkbox when you actively want to look at the third party objects. It's the quick and easy way to swap between the two "modes".
