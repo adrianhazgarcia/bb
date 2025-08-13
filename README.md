@@ -1,2 +1,2 @@
-# baseline
-This is a baseline repository for folder structure, config files, and Issues templates
+# Bug Bounty (bb)
+Methodologies, tricks, resources, and payloads for Bug Bounty/Web Pentesting
